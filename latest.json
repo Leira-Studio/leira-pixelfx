@@ -1,0 +1,15 @@
+{
+  "shell": {
+    "version": "3.0.0",
+    "mac": "https://github.com/Leira-Studio/leira-pixelfx/releases/download/v3.0.0/Leira-PixelFX-3.0.0-arm64.dmg",
+    "win": "https://github.com/Leira-Studio/leira-pixelfx/releases/download/v3.0.0/Leira-PixelFX-Setup-3.0.0.exe",
+    "linux": "https://github.com/Leira-Studio/leira-pixelfx/releases/download/v3.0.0/Leira-PixelFX-3.0.0-x86_64.AppImage",
+    "notes": "Pierwsze wydanie z instalatorami i automatycznymi aktualizacjami."
+  },
+  "web": {
+    "version": "3.0.0",
+    "url": "https://github.com/Leira-Studio/leira-pixelfx/releases/download/v3.0.0/leira-web-3.0.0.html",
+    "sha256": "384ca3db95fff277fe0dd6a6144ac23ac1800aacc9dfb45350b502173abc7710",
+    "minShell": "3.0.0"
+  }
+}

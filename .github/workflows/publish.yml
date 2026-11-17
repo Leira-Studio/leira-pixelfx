@@ -1,0 +1,23 @@
+name: publish
+on:
+  push:
+    branches: [publish-3.0.0]
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reassemble
+        run: |
+          mkdir out
+          for f in Leira-PixelFX-3.0.0-arm64.dmg Leira-PixelFX-3.0.0-x86_64.AppImage Leira-PixelFX-Setup-3.0.0.exe; do cat parts/$f.part* > out/$f; done
+          cp web/leira-web-3.0.0.html latest.json out/
+          cd out && sha256sum *
+      - name: Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete v3.0.0 --yes --cleanup-tag -R "$GITHUB_REPOSITORY" || true
+          gh release create v3.0.0 out/* -R "$GITHUB_REPOSITORY" --target main --title "Leira PixelFX 3.0.0" --notes-file notes.md --latest
