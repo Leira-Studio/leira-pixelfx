@@ -1,0 +1,17 @@
+name: publish
+on:
+  push:
+    branches: [publish-1.7.6]
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete beta-1.7.6 --yes --cleanup-tag -R "$GITHUB_REPOSITORY" || true
+          gh release create beta-1.7.6 web/leira-web-1.7.6.html latest.json -R "$GITHUB_REPOSITORY" --target main --title "Leira PixelFX beta 1.7.6" --notes-file notes.md --latest
