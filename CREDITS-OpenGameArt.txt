@@ -1,0 +1,144 @@
+OpenGameArt sprite sheets bundled in Leira PixelFX
+License: CC0 1.0 Universal (public domain dedication).
+Attribution is not required by CC0, but the authors and sources are listed here with thanks.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Reactorcore — https://opengameart.org/content/fire-smoke-animations
+  - Fire Blast (cc0/rc-fire-smoke/fire-blast)
+  - Fire Burst (cc0/rc-fire-smoke/fire-burst)
+  - Fire Plume (cc0/rc-fire-smoke/fire-plume)
+  - Oily Fireball (cc0/rc-fire-smoke/oily-fireball)
+  - Gas Cloud (cc0/rc-fire-smoke/smoke-gas)
+  - Large Smoke (cc0/rc-fire-smoke/smoke-large)
+  - Smoke Poof (cc0/rc-fire-smoke/smoke-poff)
+  - Small Smoke (cc0/rc-fire-smoke/smoke-small)
+  - Thick Smoke (cc0/rc-fire-smoke/smoke-thick)
+  - Tiny Smoke Puff (cc0/rc-fire-smoke/smoke-thick-puff)
+  - Smoke (cc0/rc-fire-smoke/smoke)
+
+Reactorcore — https://opengameart.org/content/plasma-electric-effect-animations
+  - Electrical Zap (tiny) (cc0/rc-plasma-electric/electrical-zap)
+  - Gravity Burst (cc0/rc-plasma-electric/gravity-burst)
+  - Electrical Charging (loop) (cc0/rc-plasma-electric/electrical-charging)
+  - Electro Storm (loop) (cc0/rc-plasma-electric/electro-storm)
+  - Gravity Core (loop) (cc0/rc-plasma-electric/gravity-core)
+  - Plasma Anomaly (loop) (cc0/rc-plasma-electric/plasma-anomaly)
+  - Plasma Ball (cc0/rc-plasma-electric/plasma-ball)
+  - Plasma Bubble (cc0/rc-plasma-electric/plasma-bubble)
+  - Plasma Burst (cc0/rc-plasma-electric/plasma-burst)
+  - Plasma Giga Shockwave (cc0/rc-plasma-electric/plasma-giga-shockwave)
+  - Plasma Sparkle (cc0/rc-plasma-electric/plasma-sparkle)
+  - Plasma Super Blast (cc0/rc-plasma-electric/plasma-super-blast)
+  - Plasma Surge (cc0/rc-plasma-electric/plasma-surge)
+
+ansimuz (Luis Zuno) — https://opengameart.org/content/animated-explosions
+  - Explosion 1 (cc0/ansimuz-explosions/explosion-1)
+  - Explosion 2 (cc0/ansimuz-explosions/explosion-2)
+  - Explosion 3 (cc0/ansimuz-explosions/explosion-3)
+  - Explosion 4 (cc0/ansimuz-explosions/explosion-4)
+  - Explosion 5 (cc0/ansimuz-explosions/explosion-5)
+  - Explosion 6 (cc0/ansimuz-explosions/explosion-6)
+
+ansimuz (Luis Zuno) — https://opengameart.org/content/gothicvania-magic-pack-9
+  - Dark Bolt (cc0/ansimuz-magic-pack-9/dark-bolt)
+  - Fire Bomb (cc0/ansimuz-magic-pack-9/fire-bomb)
+  - Lightning Strike (cc0/ansimuz-magic-pack-9/lightning)
+  - Spark (cc0/ansimuz-magic-pack-9/spark)
+
+CodeManu — https://opengameart.org/content/pixel-fx-pack
+  - Electric Burst (cc0/codemanu-pixel-fx/electric-burst)
+  - Infinity Loop (loop) (cc0/codemanu-pixel-fx/infinity-loop)
+  - Cyan Wisp (cc0/codemanu-pixel-fx/cyan-wisp)
+  - Spark Hit (cc0/codemanu-pixel-fx/spark-hit)
+  - Rising Energy (cc0/codemanu-pixel-fx/cyan-rise)
+  - Star Burst (cc0/codemanu-pixel-fx/star-burst)
+  - Fire Ring (loop) (cc0/codemanu-pixel-fx/fire-ring)
+  - Toxic Ring (loop) (cc0/codemanu-pixel-fx/toxic-ring)
+  - Small Flame (loop) (cc0/codemanu-pixel-fx/small-flame)
+  - Shockwave Ring (cc0/codemanu-pixel-fx/shockwave-ring)
+
+DevWizard — https://opengameart.org/content/pixel-art-spells
+  - Fireball (cc0/devwizard-pixel-spells/fireball)
+  - Big Fireball (cc0/devwizard-pixel-spells/fireball-big)
+  - Arcane Bolt (cc0/devwizard-pixel-spells/arcane-bolt)
+  - Shadow Bolt (cc0/devwizard-pixel-spells/shadow-bolt)
+  - Light Bolt (cc0/devwizard-pixel-spells/light-bolt)
+  - Arcane Orb (cc0/devwizard-pixel-spells/arcane-orb)
+  - Void Orb (cc0/devwizard-pixel-spells/void-orb)
+  - Light Orb (cc0/devwizard-pixel-spells/light-orb)
+  - Arcane Sparkles (cc0/devwizard-pixel-spells/arcane-sparkles)
+  - Acid Bolt (cc0/devwizard-pixel-spells/acid-bolt)
+  - Twinkle Star (cc0/devwizard-pixel-spells/twinkle-star)
+  - Large Water Orb (cc0/devwizard-pixel-spells/water-orb-large)
+  - Water Splash (cc0/devwizard-pixel-spells/water-splash)
+  - Water Bolt (cc0/devwizard-pixel-spells/water-bolt)
+  - Bubble Orb (cc0/devwizard-pixel-spells/bubble-orb)
+  - Ice Shard (cc0/devwizard-pixel-spells/ice-shard)
+  - Ice Arrow (cc0/devwizard-pixel-spells/ice-arrow)
+  - Arcane Beam (tileable) (cc0/devwizard-pixel-spells/arcane-beam)
+
+Emcee Flesher — https://opengameart.org/content/16x16-simple-fantasy-rpg-fx
+  - Green Ring Burst (cc0/emceeflesher-simple-fx/green-ring-burst)
+  - Whirlwind (cc0/emceeflesher-simple-fx/whirlwind)
+  - Blue Orb Pop (cc0/emceeflesher-simple-fx/blue-orb-pop)
+  - Red Ring Burst (cc0/emceeflesher-simple-fx/red-ring-burst)
+  - Ice Burst (cc0/emceeflesher-simple-fx/ice-burst)
+  - Heart Break (cc0/emceeflesher-simple-fx/heart-break)
+
+CptDrunkBear — https://opengameart.org/content/pixel-explosion
+  - Pixel Explosion (cc0/cptdrunkbear-pixel-explosion/explosion)
+
+diamonddmgirl — https://opengameart.org/content/32x32-explosion
+  - Explosion 32px (cc0/diamonddmgirl-32x32-explosion/explosion)
+
+9KeyStudio — https://opengameart.org/content/pixel-art-explosion-animation
+  - Explosion Large (cc0/9keystudio-explosion/explosion-large)
+  - Explosion Medium (cc0/9keystudio-explosion/explosion-medium)
+
+Ben Hickling (BenHickling) — https://opengameart.org/content/ring-explosion
+  - Ring Explosion (cc0/benhickling-ring-explosion/ring-explosion)
+
+BitingChaos — https://opengameart.org/content/16x16-explosion
+  - Explosion 16px (Pico-8) (cc0/bitingchaos-16x16-explosion/explosion)
+
+Spring Spring — https://opengameart.org/content/another-pixel-explosion
+  - Spark Explosion (cc0/springspring-fx/explosion)
+
+Spring Spring — https://opengameart.org/content/dust-animation
+  - Dust Puff (tiny) (cc0/springspring-fx/dust)
+
+Spring Spring — https://opengameart.org/content/16x16-torch
+  - Brazier Torch (loop) (cc0/springspring-fx/torch)
+
+DaneIsAlive — https://opengameart.org/content/pixel-fire
+  - Pixel Fire A (loop) (cc0/daneisalive-pixel-fire/fire-a)
+  - Pixel Fire B (loop) (cc0/daneisalive-pixel-fire/fire-b)
+
+RodHakGames — https://opengameart.org/content/portals-32-x-48
+  - Portal Blue (loop) (cc0/rodhakgames-portals/portal-blue)
+  - Portal Red (loop) (cc0/rodhakgames-portals/portal-red)
+  - Portal Orange (loop) (cc0/rodhakgames-portals/portal-orange)
+  - Portal Grey (loop) (cc0/rodhakgames-portals/portal-grey)
+
+Aidan_Walker — https://opengameart.org/content/smoke-puff
+  - Smoke Puff (cc0/aidanwalker-smoke-puff/smoke-puff)
+
+second — https://opengameart.org/content/2d-bubble-animation
+  - Bubble (cc0/second-bubble/bubble)
+
+donte — https://opengameart.org/content/rain-particle-animated
+  - Rain Drop Splash (cc0/donte-rain-drop/rain-drop)
+
+sevencrane — https://opengameart.org/content/16x16-spinning-coin-pickup-animation
+  - Coin Spin + Pickup (cc0/sevencrane-coin/coin-spin-pickup)
+
+Kutejnikov — https://opengameart.org/content/coin-animated-0
+  - Coin Spin (loop) (cc0/kutejnikov-coin/coin-spin)
+
+Gerald Burke — https://opengameart.org/content/health-pickup
+  - Health Pickup (loop) (cc0/geraldburke-health-pickup/health-pickup)
+
+tbbk — https://opengameart.org/content/pixel-art-sword-slash-effect
+  - Sword Slash (cc0/tbbk-sword-slash/sword-slash)
+
+Authors (20): Reactorcore, ansimuz (Luis Zuno), CodeManu, DevWizard, Emcee Flesher, CptDrunkBear, diamonddmgirl, 9KeyStudio, Ben Hickling (BenHickling), BitingChaos, Spring Spring, DaneIsAlive, RodHakGames, Aidan_Walker, second, donte, sevencrane, Kutejnikov, Gerald Burke, tbbk.

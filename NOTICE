@@ -1,0 +1,17 @@
+# Notices
+
+**Hugo Duprez.** `src/core/sim.js` and the effects that say so at the top of their file adapt Sprite Fusion's
+open-source pixel art VFX (https://www.spritefusion.com/pixel-art-vfx), Copyright (c) 2026 Hugo Duprez, MIT License.
+
+**Hollow Crown.** `src/core/act.js` adapts how Hollow Crown plays its skills (poses on 12 fps steps, hit-stops, the springy
+straw target), from
+https://github.com/rehan-remade/hollow-crown, Copyright (c) 2026 rehan-remade, MIT License.
+
+**Fonts.** The Patch Pixel typeface is Patch's own, is not covered by the pixelfx MIT license, and is not included
+in this distribution. The Leira PixelFX interface uses Pixelify Sans, Copyright 2021 The Pixelify Sans Project Authors
+(https://github.com/eifetx/Pixelify-Sans), licensed under the SIL Open Font License, Version 1.1.
+See LICENSE-PixelifySans-OFL.txt.
+
+**Leira Studio.** The application shell, user interface, and effects marked as Leira (id prefixes original/ and merge/,
+plus additional moves and status effects not in the upstream pixelfx catalog) are © 2026 Leira Studio.
+The 244 upstream pixelfx effects remain MIT-licensed as above. OpenGameArt sprite sheets are CC0 (see CREDITS-OpenGameArt.txt).
