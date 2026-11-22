@@ -17,11 +17,11 @@
     }
   },
   "web": {
-    "version": "1.7.15",
-    "url": "https://github.com/Leira-Studio/leira-pixelfx/releases/download/beta-1.7.15/leira-web-1.7.15.html",
-    "sha256": "ae7c3eaae7b36e3b05e307741861650a5a59c8e1242d3b738feb2daa3b5129ec",
-    "size": 4094538,
+    "version": "1.7.16",
+    "url": "https://github.com/Leira-Studio/leira-pixelfx/releases/download/beta-1.7.16/leira-web-1.7.16.html",
+    "sha256": "5cf4a5cab7761de554b4cf4fdb2da6f4d54e5d4b7347af08ff3f8ff6d2a87fc4",
+    "size": 4130206,
     "minShell": "1.3.0",
-    "notes": "• Edytor scen: bez wymyślonych tłów dziedzińca (chmury, gwiazdy, ruiny, sosny); zostaje księżyc, kamienne podłoże i zwykłe tła. Lista ma prawdziwe miniaturki.\n• Własne elementy do sceny: import PNG, JPG, WebP, GIF i sprite sheetów (kategoria „moje”). Zapisują się w programie i działają jako tło podglądu. Eksport zostaje przezroczysty.\n• Biblioteka bez zmian liczebności: Leira 147, razem 481. Ikona Leira tylko na kafelkach, nigdy w eksporcie."
+    "notes": "• Edytor scen: zmiana rozdzielczości i wielkości sceny (gotowe rozmiary albo własne, aż do 4096 px), kolor tła, linia stania. Widok przybliżasz i oddalasz (Ctrl + kółko, „dopasuj”, 100%), kadr przesuwasz spacją albo środkowym przyciskiem.\n• Elementy od 0,05× do 8×, precyzyjne pole i Shift + kółko, przycisk „dopasuj do sceny”. Kamera podglądu kadruje dużą scenę na kafelkach. Miniaturki własnych, także dużych, obrazów nie są już czarne.\n• Biblioteka bez zmian liczebności: Leira 147, razem 481. Ikona Leira tylko na kafelkach, nigdy w eksporcie. Stare sceny zostają w rozmiarze 320×200."
   }
 }
